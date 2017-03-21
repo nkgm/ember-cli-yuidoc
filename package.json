@@ -21,6 +21,7 @@
     "broccoli-caching-writer": "~2.0.4",
     "broccoli-merge-trees": "^1.1.1",
     "git-repo-version": "0.2.0",
+    "mkdirp": "^0.5.1",
     "rsvp": "3.0.14",
     "yuidocjs": "^0.10.0"
   },
